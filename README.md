@@ -1,3 +1,6 @@
+Si quieres probar la aplicacion entra en este enlace:
+https://profound-panda-87a03e.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
