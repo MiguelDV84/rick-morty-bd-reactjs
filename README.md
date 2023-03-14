@@ -1,5 +1,5 @@
 Si quieres probar la aplicacion entra en este enlace:
-https://profound-panda-87a03e.netlify.app/
+https://rick-morty-bd-v1.netlify.app/
 
 # Getting Started with Create React App
 
